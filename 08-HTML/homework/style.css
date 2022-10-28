@@ -1,5 +1,18 @@
+body{
+    background-image: url(https://scontent.fbrc2-1.fna.fbcdn.net/v/t1.18169-9/20106703_2053221904999793_2075002485366626916_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEIG_ZGewOAG5HkUzFCK4zT0vp9Adp2mwbS-n0B2nabBv7HmotVk3PXSUlBohc-eyc&_nc_ohc=iWQlEHPhWIYAX8vt1BY&_nc_ht=scontent.fbrc2-1.fna&oh=00_AT-DY-MGh7qfhOcP_a3bY-NxSgYXub9LrXec-EFqUrCByg&oe=636C8EF0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+}
 h1{
     color:greenyellow
+}
+h3{
+    color:aqua
+}
+h4{
+    color:aqua
 }
 img{
     width: 400px;
@@ -14,6 +27,10 @@ img{
     border-style: solid;
 }
 #spanID{
+    color:aqua;
     font-size: 18px; 
     margin: 50px;
+}
+a{
+    color:fuchsia
 }
